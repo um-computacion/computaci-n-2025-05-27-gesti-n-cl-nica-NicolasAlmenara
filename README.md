@@ -3,9 +3,9 @@
 ## 👤 Información del Alumno
 
 ### 📋 Datos Personales
-- **Nombre y Apellido**: [Completar con nombre y apellido]
+- **Nombre y Apellido**: [Nicolas Almenara]
 - **Ciclo Lectivo**: 2025
-- **Carrera**: [Completar con nombre de la carrera]
+- **Carrera**: [Ingenieria informatica]
 
 ## ⏰ Información Importante sobre la Entrega
 
